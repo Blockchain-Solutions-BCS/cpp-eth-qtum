@@ -400,4 +400,3 @@ AddressHash commit(AccountMap const& _cache, SecureTrieDB<Address, DB>& _state);
 
 }
 }
-
